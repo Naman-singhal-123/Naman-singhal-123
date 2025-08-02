@@ -84,6 +84,29 @@
 - 🔗 LinkedIn: [linkedin.com/in/naman-singhal](https://www.linkedin.com/in/naman-singhal)
 
 ---
+### 📫 How to Reach Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naman-singhal-8608b8235)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/namansinghal031)  
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naman31singhal@gmail.com)
+
+---
+
+### 🧑‍💻 Coding Profiles:
+- 🔗 [CodeChef](https://www.codechef.com/users/naman031)  
+- 🔗 [HackerRank](https://www.hackerrank.com/naman31singhal?hr_r=1)  
+- 🔗 [LeetCode](https://leetcode.com/namansinghal031/)  
+- 🔗 [HackerEarth](https://www.hackerearth.com/@naman31singhal)  
+- 🔗 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/naman31snryk/practice)
+
+---
+
+### 🚀 Languages & Tools:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,react,cpp,java,c,figma,oracle,mongodb,vscode,pandas" alt="Languages" />
+</p>
+
+---
 
 > 🧠 *"Code with purpose. Learn with passion. Grow with consistency."* 🚀
 
