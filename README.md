@@ -85,19 +85,15 @@
 
 ---
 ### 📫 How to Reach Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naman-singhal-8608b8235)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/namansinghal031)  
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naman31singhal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naman-singhal-49151a35b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/__its.naman.07__?igsh=MTQ2aWxpNHZxcjNqeQ==)  
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namansinghal8791442gmail.com)
 
 ---
 
 ### 🧑‍💻 Coding Profiles:
-- 🔗 [CodeChef](https://www.codechef.com/users/naman031)  
-- 🔗 [HackerRank](https://www.hackerrank.com/naman31singhal?hr_r=1)  
-- 🔗 [LeetCode](https://leetcode.com/namansinghal031/)  
-- 🔗 [HackerEarth](https://www.hackerearth.com/@naman31singhal)  
-- 🔗 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/naman31snryk/practice)
-
+- 🔗 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/namansinghr2wg/practice)
+- 🔗 [CodeChef](https://www.codechef.com/users/NamanSinghal)  
 ---
 
 ### 🚀 Languages & Tools:
