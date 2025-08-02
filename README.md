@@ -80,8 +80,8 @@
 ### 📬 Connect With Me
 
 - 📧 Email: [namansinghal879144@gmail.com](mailto:namansinghal879144@gmail.com)
-- 🌐 Portfolio: [namansinghal031.vercel.app](https://namansinghal031.vercel.app)
-- 🔗 LinkedIn: [linkedin.com/in/naman-singhal](https://www.linkedin.com/in/naman-singhal)
+- 🌐 Portfolio: [namansinghal031.vercel.app](https://auth.geeksforgeeks.org/user/namansinghr2wg/practice)
+- 🔗 LinkedIn: [linkedin.com/in/naman-singhal](https://www.linkedin.com/in/naman-singhal-49151a35b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 ### 📫 How to Reach Me:
