@@ -90,36 +90,32 @@
 </p>
 
 ---
-## 🏆 Achievements
+
 ## 🏆 Achievements
 
 Here are some of my proud learning and achievement milestones:
 
 <p align="center">
   <a href="https://www.hackerrank.com/naman31singhal?hr_r=1" target="_blank">
-    <img alt="HackerRank" width="100" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
+    <img alt="HackerRank" width="90" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.google.com" target="_blank">
-    <img alt="Google" width="100" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" />
+    <img alt="Google" width="95" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.ibm.com/skills" target="_blank">
-    <img alt="IBM SkillsBuild" width="100" src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" />
+    <img alt="IBM" width="90" src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.analytixlabs.co.in/" target="_blank">
-    <img alt="Analytics Vidhya" width="100" src="https://avatars.githubusercontent.com/u/12150507?s=280&v=4" />
+  <a href="https://www.microsoft.com/en-in/learn" target="_blank">
+    <img alt="Microsoft" width="90" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/" target="_blank">
-    <img alt="GFG" width="100" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.codingseekho.com/" target="_blank">
-    <img alt="Coding Seekho" width="100" src="https://codingseekho.com/static/media/logo.3b2a013fbc235a1600f0.png" />
-  </a>
-</p>
+    <img alt="GFG" width="90" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" />
+  <
+
 
 - ✅ **Google Certified Python Developer** *(Course completed with distinction)*
 - ✅ **MySQL Basics** - [HackerRank Profile](https://www.hackerrank.com/naman31singhal)
