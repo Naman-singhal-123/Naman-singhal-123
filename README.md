@@ -91,6 +91,7 @@
 
 ---
 ## 🏆 Achievements
+## 🏆 Achievements
 
 Here are some of my proud learning and achievement milestones:
 
@@ -99,8 +100,8 @@ Here are some of my proud learning and achievement milestones:
     <img alt="HackerRank" width="100" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://infyspringboard.onwingspan.com" target="_blank">
-    <img alt="Infosys Springboard" width="100" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Infosys_logo.svg" />
+  <a href="https://www.google.com" target="_blank">
+    <img alt="Google" width="100" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.ibm.com/skills" target="_blank">
@@ -114,9 +115,13 @@ Here are some of my proud learning and achievement milestones:
   <a href="https://www.geeksforgeeks.org/" target="_blank">
     <img alt="GFG" width="100" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codingseekho.com/" target="_blank">
+    <img alt="Coding Seekho" width="100" src="https://codingseekho.com/static/media/logo.3b2a013fbc235a1600f0.png" />
+  </a>
 </p>
 
-- ✅ **Python Certification** - [Infosys Springboard](https://infyspringboard.onwingspan.com)
+- ✅ **Google Certified Python Developer** *(Course completed with distinction)*
 - ✅ **MySQL Basics** - [HackerRank Profile](https://www.hackerrank.com/naman31singhal)
 - ✅ **Python Projects & Practice** - [GeeksforGeeks Profile](https://auth.geeksforgeeks.org/user/naman31snryk/practice)
 - ✅ **IBM Python Basics for AI**
@@ -126,21 +131,5 @@ Here are some of my proud learning and achievement milestones:
 - ✅ **Analytics Vidhya Python Track**
 
 ---
-
-### ✨ Add this under your README after `Languages & Tools` section.
-
----
-
-### 💡 Optional Ideas:
-- Tu chahe toh **each certificate ka thumbnail image** bhi daal sakta hai (PDF ka screenshot).
-- Tu mujhe vo images bhej de, mai neatly laga dunga badges ki tarah.
-- Achievements ko **timeline format** ya **bullet format** me bhi kar sakte hain.
-
----
-
-Bata bhai tu kis format me chahta hai?  
-Aur agar koi **certificate image** bhejna ho toh bhej de — mai uska HTML/Markdown ready kar dunga 📄✅
-
-
 > 🧠 *"Code with purpose. Learn with passion. Grow with consistency."* 🚀
 
