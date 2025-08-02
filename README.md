@@ -3,9 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=250&section=header&text=Hi%20There,%20I'm%20Naman%20Singhal!👋&fontSize=40&fontColor=ffffff" />
 </p>
 
+<!-- Typing Text (Better spacing and smooth look) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=BCA+Student+from+MLN+College;Python%2C+MySQL%2C+Tkinter+Developer;Passionate+about+Data+Science+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=1000&lines=👨‍💻+BCA+Student+at+MLN+College%2C+Yamunanagar;💡+Python+%7C+MySQL+%7C+Tkinter+Developer;🚀+Aspiring+Data+Science+Engineer;📊+Building+Projects+with+Machine+Learning+%26+Power+BI" alt="Typing SVG" />
 </p>
+
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **Super Extension**
