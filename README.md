@@ -1,14 +1,13 @@
 <!-- Profile Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=250&section=header&text=Hi%20There,%20I'm%20Naman%20Singhal!👋&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=250&section=header&text=Hi%20There,%20I'm%20Naman%20Singhal!👋&fontSize=40&fontColor=ffffff" alt="Banner" />
 </p>
 
-<!-- Typing Text (Clean and Tested) -->
+<!-- Typing Text Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=1000&lines=👨‍💻%20BCA%20Student%20at%20MLN%20College%2C%20Yamunanagar;💡%20Python%20%7C%20MySQL%20%7C%20Tkinter%20Developer;🚀%20Aspiring%20Data%20Science%20Engineer;📊%20Building%20Projects%20with%20Machine%20Learning%20%26%20Power%20BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=BCA+Student+from+MLN+College;Python%2C+MySQL%2C+Tkinter+Developer;Passionate+about+Data+Science+%F0%9F%8C%90" alt="Typing Animation" />
 </p>
-
-### 🧠 About Me
 
 - 🔭 I’m currently working on **Super Extension**
 - 🌱 Currently learning: **Python**, **MySQL**, **DBMS**
