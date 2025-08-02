@@ -1,18 +1,11 @@
-<!-- 🌈 Minimal Professional Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="developer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=250&section=header&text=Hi%20There,%20I'm%20Naman%20Singhal!👋&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/retro.gif" width="700px" alt="banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=BCA+Student+from+MLN+College;Python%2C+MySQL%2C+Tkinter+Developer;Passionate+about+Data+Science+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Naman Singhal</h1>
-<h3 align="center">🚀 Building the Foundation for a Successful Career in Computer Science</h3>
-
----
-
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **Super Extension**
