@@ -125,6 +125,7 @@ Here are some of my proud learning and achievement milestones:
 - ✅ **Deloitte Virtual Job Simulation**
 - ✅ **Coding Seekho ISO Certified Python Course**
 - ✅ **Analytics Vidhya Python Track**
+- ✅ **click my Linkedin profile & see my coding Certficates
 
 ---
 > 🧠 *"Code with purpose. Learn with passion. Grow with consistency."* 🚀
