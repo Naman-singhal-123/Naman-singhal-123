@@ -79,7 +79,8 @@
 
 ### 🧑‍💻 Coding Profiles:
 - 🔗 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/namansinghr2wg/practice)
-- 🔗 [CodeChef](https://www.codechef.com/users/NamanSinghal)  
+- 🔗 [CodeChef](https://www.codechef.com/users/NamanSinghal)
+- 🔗 [HackerRank](https://www.codechef.com/users/@naman31singhal)
 ---
 
 ### 🚀 Languages & Tools:
