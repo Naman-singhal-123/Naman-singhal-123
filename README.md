@@ -1,24 +1,23 @@
-<!-- Banner Image -->
+<!-- 🎯 Banner Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Banner" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Naman Singhal</h1>
-
 <h3 align="center">🚀 Building the Foundation for a Successful Career in Computer Science</h3>
 
 ---
 
 ### 🧠 About Me
 
-- 🔨 I’m currently working on **Super Extension**
-- 🌱 I’m currently learning **MySQL, DBMS**
-- 🤝 I’m looking to collaborate on **Web Development**
+- 🔨 Currently working on **Super Extension**
+- 🌱 Learning **MySQL, DBMS**
+- 🤝 Looking to collaborate on **Web Development**
 - 💬 Ask me about: `Java`, `C++`, `Python`, `React`, `AI`, `Machine Learning`
 
 ---
 
-### 🚀 Languages & Tools
+### 💼 Skills & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
