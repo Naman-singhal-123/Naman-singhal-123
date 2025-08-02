@@ -1,3 +1,14 @@
+<!-- 🌈 Minimal Professional Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="developer banner" />
+</p>
+
+<h1 align="center">Hi there 👋, I'm <span style="color:#FFA500">Naman Singhal</span></h1>
+
+<p align="center">
+  <i>"Building the Foundation for a Successful Career in Computer Science"</i>
+</p>
+
 <!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/retro.gif" width="700px" alt="banner"/>
