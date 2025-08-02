@@ -26,27 +26,13 @@
 ### 📱 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/naman-singhal-8608b8235" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/namansinghal031?igshid=zdc4odbmnjlmnq==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/naman031" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/naman31singhal?hr_r=1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/namansinghal031/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerearth.com/@naman31singhal" target="_blank">
     <img src="https://img.shields.io/badge/HackerEarth-323754?logo=hackerearth&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/naman31snryk/practice" target="_blank">
     <img src="https://img.shields.io/badge/GeeksForGeeks-0F9D58?logo=geeksforgeeks&logoColor=white" />
-  </a>
 </p>
 
 ---
