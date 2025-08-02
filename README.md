@@ -67,10 +67,22 @@
 
 ---
 
-### 📊 GitHub Stats (Optional)
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naman-singhal-123&show_icons=true&theme=gruvbox" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-singhal-123&theme=gruvbox" width="48%"/>
 </p>
+
+---
+
+### 📬 Connect With Me
+
+- 📧 Email: [namansinghal879144@gmail.com](mailto:namansinghal879144@gmail.com)
+- 🌐 Portfolio: [namansinghal031.vercel.app](https://namansinghal031.vercel.app)
+- 🔗 LinkedIn: [linkedin.com/in/naman-singhal](https://www.linkedin.com/in/naman-singhal)
+
+---
+
+> 🧠 *"Code with purpose. Learn with passion. Grow with consistency."* 🚀
 
