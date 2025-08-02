@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/0e/37/8c/0e378cd7d43263e213f9212ee1219440.gif" width="100%" alt="banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Naman Singhal</h1>
+
+<h3 align="center">🚀 Building the Foundation for a Successful Career in Computer Science</h3>
+
 <!--
 **Naman-singhal-123/Naman-singhal-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
