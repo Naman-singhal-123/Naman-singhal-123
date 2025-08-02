@@ -19,7 +19,7 @@
 - 🌱 Currently learning: **MySQL**, **DBMS**
 - 🤝 Looking to collaborate on: **Web Development Projects**
 - 💬 Ask me about: **Java, C++, React, Python, AI, ML**
-- 📫 Reach me at: **naman31singhal@gmail.com**
+- 📫 Reach me at: **namansinghal879144@gmail.com**
 
 ---
 
