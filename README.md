@@ -16,9 +16,9 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **Super Extension**
-- 🌱 Currently learning: **MySQL**, **DBMS**
-- 🤝 Looking to collaborate on: **Web Development Projects**
-- 💬 Ask me about: **Java, C++, React, Python, AI, ML**
+- 🌱 Currently learning: **Python**, **MySQL**, **DBMS**
+- 🤝 Looking to collaborate on: **Machine Learning Models**
+- 💬 Ask me about: **Data science, Artificial Intelligence, Data cleaning, visulisation,Python, ML**
 - 📫 Reach me at: **namansinghal879144@gmail.com**
 
 ---
